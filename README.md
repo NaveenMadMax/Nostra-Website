@@ -37,24 +37,12 @@ Nostra-Website/ ├── index.html # Home Page ├── collections.html # Co
 
 ---
 
-## 📸 Screenshots
-
-### 🌐 Home Page
-
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page+Screenshot)
-
-### 🛒 Collections Page
-
-![Collections Page](https://via.placeholder.com/800x400?text=Collections+Page+Screenshot)
-
----
-
 ## 📖 How to Use
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/your-username/nostra-website.git
-   ```
+```
 
 2.Navigate to the project directory:
 
@@ -63,9 +51,27 @@ Nostra-Website/ ├── index.html # Home Page ├── collections.html # Co
 ```
 ## 📂 Key Files
 
-index.html 🏠: The main landing page.
-collections.html 🛒: Displays products with a filter functionality.
-product.js 📦: Contains the product data as JavaScript objects.
-script.js ⚙️: Handles interactive functionality like navigation and filtering.
-style.css 🎨: Custom styles for the website.
+- index.html 🏠: The main landing page.
+- collections.html 🛒: Displays products with a filter functionality.
+- product.js 📦: Contains the product data as JavaScript objects.
+- script.js ⚙️: Handles interactive functionality like navigation and filtering.
+- style.css 🎨: Custom styles for the website.
 
+## 🌐 Live Demo
+-https://naveenmadmax.github.io/Nostra-Website/index.html
+
+
+## 🤝 Contributing
+### Contributions are welcome! 🎉 Feel free to fork this repo, make improvements, and submit a pull request. 🚀
+
+
+## 📩 Contact
+
+### 📧 Feel free to reach out if you have any questions!
+
+### 🔗 https://www.linkedin.com/in/naveen-k-25a36a227/
+
+### 💻 Made with ❤️ by [Naveen MadMax]
+
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/8e8e958e-8477-4c9d-8621-13ccec3b190a)
